@@ -1,0 +1,19 @@
+{
+  "title": "Je parle français",
+  "description": "ça marche !!",
+  "navitems": [
+      {
+        "name1": "Accueil",
+        "link": "/"
+      },
+      {
+        "name2": "A Propos",
+        "link": "/a-propos"
+      },
+      {
+        "name3": "Contact",
+        "link": "/contact"
+      }
+  ]
+
+}

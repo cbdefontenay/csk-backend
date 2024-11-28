@@ -1,0 +1,18 @@
+{
+  "title": "I'm speaking English!",
+  "description": "now that's working",
+  "navitems": [
+    {
+      "name1": "Home",
+      "link": "/"
+    },
+    {
+      "name2": "About",
+      "link": "/about"
+    },
+    {
+      "name3": "Contact",
+      "link": "/contact"
+    }
+  ]
+}
